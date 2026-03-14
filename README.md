@@ -6,7 +6,7 @@
 # ML_final
 지능로봇 기계학습 기말 프로젝트 - 각도기반 카메라 위치 실시간추정
 
-# 개발환경
+# Environment
 - ubuntu 22.04
 - ros humble
 

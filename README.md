@@ -10,7 +10,7 @@
 - ubuntu 22.04
 - ros humble
 
-# yolostyle classifier
+# Used
 - c2f block
 - dropout
 - convolutional layer and relu function
